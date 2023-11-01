@@ -3,7 +3,7 @@
 Universal Intercom keys by StarNew - https://starnew.ru/
 + New undefined dumps
 + Added files for fuzzers
-+ Added office (service) keys for Vizit and Metakom
++ Added office (service) keys for Vizit, Metakom and Kondor
   
 StarButton - to ibutton folder,
 StarRFID - to lfrfid folder
@@ -15,7 +15,7 @@ Dumped by Russian Elevator - https://www.youtube.com/@iah_lift , say thanks to h
 Универсальные ключи StarNew в формате для Flipper Zero
 + Новые дампы 
 + Добавил файлы для фаззеров
-+ Добавил офисные (сервисные) ключи для домофонов визит и метаком
++ Добавил офисные (сервисные) ключи для домофонов визит, метаком и кондор
   
 StarButton - В папку ibutton,
 StarRFID - В папку lfrfid
